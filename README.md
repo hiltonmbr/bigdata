@@ -15,18 +15,20 @@ Balamurugan Balusamy, Nandhini Abirami. R, Seifedine Kadry, and Amir H. Gandomi
 
 **Matrícula**
 
-**Instruções**
+## Instruções
 
 ```bash
 # clonar o repositório
 git clone git@github.com:hiltonmbr/bigdata.git
-# criar uma banch com sua matrícula
+# criar uma branch com sua matrícula
 git checkout -b <sua matrícula>
-# Editar esse arquivo README.md e salvar commits em sua branch
+# Criar o arquivo markdown 
+# Copiar e colar o conteúdo do README.md
+# Editar o arquivo CAPITULO1.md e salvar commits em sua branch
 git push origin <sua matrícula>
-# Ao finalizar, abri um pull request
+# Ao finalizar, abrir um pull request
 ```
 
 # Introdução
 
-Desenvolver fichamento ...
+Desenvolver fichamento aqui ...

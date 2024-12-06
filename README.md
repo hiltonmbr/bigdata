@@ -11,9 +11,9 @@ Concepts, Technology, and Architecture
 
 Balamurugan Balusamy, Nandhini Abirami. R, Seifedine Kadry, and Amir H. Gandomi
 
-**Aluno**: XXXXXX
+**Aluno**: Nercino José De Barros Neto
 
-**Matrícula**
+**Matrícula** 20220062527
 
 ## Instruções
 
@@ -22,7 +22,7 @@ Balamurugan Balusamy, Nandhini Abirami. R, Seifedine Kadry, and Amir H. Gandomi
 git clone git@github.com:hiltonmbr/bigdata.git
 # criar uma branch com sua matrícula
 git checkout -b <sua matrícula>
-# Criar o arquivo markdown 
+# Criar o arquivo markdown
 # Copiar e colar o conteúdo do README.md
 # Editar o arquivo CAPITULO1.md e salvar commits em sua branch
 git push origin <sua matrícula>

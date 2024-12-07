@@ -69,3 +69,43 @@ inadequados para lidar com grandes volumes de dados.
 
 ## 3Vs of Big Data
 
+- Volume
+  - Refere-se à quantidade de dados gerados diariamente e à capacidade de armazenar e processar esses dados.
+  - Exemplo: 2.5 quintillion bytes of data are generated every day.
+- Velocidade
+  - Refere-se à velocidade com que os dados são gerados e processados.
+  - Exemplo: Twitter processes 500 million tweets per day.
+- Variedade
+  - Refere-se aos diferentes tipos de dados gerados diariamente(estruturados, não estruturados e semi-estruturados).
+  - Exemplo: 80% of the world's data is unstructured.
+
+## Sources of Big Data
+
+- **Social Media**
+  - Exemplo: Facebook, Twitter, Instagram, etc.
+- **Sensors**
+  - Exemplo: GPS, RFID, etc.
+- **Internet of Things(IoT)**
+  - Exemplo: Smart devices, wearables, etc.
+- **Machine-generated data**
+  - Exemplo: Logs, clickstreams, etc.
+- **Black Box Data**
+  - Exemplo: Flight data recorders, etc.
+- **Healthcare data**
+  - Exemplo: Electronic health records, etc.
+- **Organizational data**
+  - Exemplo: Sales data, customer data, etc.
+
+## Different Types of Data
+
+- **Structured Data**
+  - Refere-se a dados organizados em um formato que pode ser facilmente analisado.
+  - Exemplo: Banco de dados relacional.
+- **Unstructured Data**
+  - Refere-se a dados que não estão organizados em um formato que possa ser facilmente analisado.
+  - Exemplo: E-mails, vídeos e imagens.
+- **Semi-structured Data**
+  - Refere-se a dados que estão parcialmente organizados em um formato que pode ser facilmente analisado.
+  - Exemplo: XML, JSON.
+
+## Big Data Infrastructure

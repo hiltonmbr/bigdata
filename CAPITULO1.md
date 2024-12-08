@@ -109,3 +109,56 @@ inadequados para lidar com grandes volumes de dados.
   - Exemplo: XML, JSON.
 
 ## Big Data Infrastructure
+
+- **Hadoop**
+  - É um framework de código aberto que permite o processamento distribuído de grandes volumes de dados em clusters de computadores.
+  - É composto por dois principais componentes: HDFS e MapReduce.
+- **HDFS**
+  - É um sistema de arquivos distribuído que permite o armazenamento de grandes volumes de dados em clusters de computadores.
+  - É altamente tolerante a falhas e escalável.
+- **MapReduce**
+  - É um modelo de programação que permite o processamento paralelo de grandes volumes de dados em clusters de computadores.
+  - Divide o trabalho em tarefas menores que são executadas em paralelo.
+
+## Big Data Life Cycle
+
+As tecnologias de big data capturam e analisam esses dados com eficiência, utilizando
+infraestruturas que processam computações distribuídas e paralelas, com armazenamento
+escalável. Componentes como Hadoop, HDFS e MapReduce suportam esse processo. O ciclo
+de vida do big data inclui captura de dados em alta velocidade, armazenamento em
+plataformas como HDFS e NoSQL, pré-processamento para adequação à análise, e uso
+de ferramentas analíticas como MapReduce e YARN para extrair conhecimento dos dados.
+Técnicas de aprendizado de máquina e análise preditiva são aplicadas, especialmente
+na análise de textos oriundos de mídias sociais e e-mails. Por fim, os resultados
+são apresentados em visualizações claras, por ferramentas como Tableau, para apoiar a tomada de decisões.
+
+- **Smoothing**
+  - Refere-se ao processo de suavização dos dados para remover ruídos e tornar os padrões mais visíveis.
+  - Exemplo: Média móvel.
+- **Aggregation**
+  - Refere-se ao processo de combinar dados de várias fontes para obter uma visão mais ampla.
+  - Exemplo: Somar as vendas de várias lojas para obter as vendas totais.
+- **Generalization**
+  - Refere-se ao processo de simplificar os dados para torná-los mais fáceis de entender.
+  - Exemplo: Agrupar os dados por região para obter uma visão geral das vendas.
+- **Discretization**
+  - Refere-se ao processo de transformar dados contínuos em dados discretos.
+  - Exemplo: Agrupar as idades dos clientes em faixas etárias.
+
+## Big Data Technology
+
+O avanço tecnológico transformou as formas de geração, captura, processamento e análise de dados,
+aumentando significativamente a eficiência desses processos. O Apache Hadoop, uma plataforma
+open-source, é uma das principais tecnologias de big data, criada por Doug Cutting e
+Mike Cafarella com o objetivo inicial de indexar a web, em um projeto chamado "Nutch".
+O nome "Hadoop" veio do elefante de brinquedo do filho de Doug. O Hadoop é um framework
+para armazenamento e processamento distribuído de grandes volumes de dados, sendo capaz
+de lidar com dados estruturados, semiestruturados e não estruturados de forma econômica
+graças ao uso de hardware comum. Seus componentes principais incluem HDFS (sistema de
+arquivos distribuídos), Hadoop Common (utilitários básicos), MapReduce (processamento de
+dados) e YARN (gerenciador de recursos distribuídos). O YARN, introduzido no Hadoop 2.0,
+substituiu o gerenciamento de recursos do MapReduce do Hadoop 1.0, permitindo que o Hadoop
+execute outros tipos de tarefas além do MapReduce. O Hadoop Common fornece serviços essenciais
+e scripts necessários para o funcionamento do Hadoop.
+
+## Big Data Applications

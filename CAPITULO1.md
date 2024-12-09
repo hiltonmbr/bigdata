@@ -161,4 +161,24 @@ substituiu o gerenciamento de recursos do MapReduce do Hadoop 1.0, permitindo qu
 execute outros tipos de tarefas além do MapReduce. O Hadoop Common fornece serviços essenciais
 e scripts necessários para o funcionamento do Hadoop.
 
-## Big Data Applications
+## Big Data Applications And Big Data Use Cases
+
+- Bancos e Valores Mobiliários: Detecção de fraudes em cartões de crédito/débito, alertas para fraudes em valores mobiliários, relatórios de risco de crédito e análises de dados de clientes.
+- Setor de Saúde: Armazenamento e análise de dados de pacientes para identificar doenças em estágios iniciais.
+- Marketing: Análise do histórico de compras dos clientes para direcionar produtos recém-lançados ao público-alvo.
+- Análise Web: Dados de mídias sociais e mecanismos de busca são analisados para exibir anúncios com base nos interesses dos usuários.
+- Análise de Call Centers: Identificação de problemas recorrentes e padrões de comportamento da equipe por meio do processamento do conteúdo das chamadas.
+- Agricultura: Uso de sensores para otimizar a eficiência das colheitas e análise dos dados gerados por esses sensores.
+- Smartphones: Utilização de reconhecimento facial para desbloqueio de dispositivos e recuperação de informações previamente armazenadas.
+- Transporte: Análise de dados de tráfego para otimizar rotas e reduzir o tempo de viagem.
+- Energia: Monitoramento do consumo de energia para identificar padrões de uso e reduzir custos.
+- Educação: Análise de dados de desempenho dos alunos para identificar áreas de melhoria e personalizar o ensino.
+- Governo: Análise de dados de cidadãos para identificar tendências e padrões de comportamento.
+- Seguros: Análise de dados de sinistros para identificar fraudes e avaliar riscos.
+- Varejo: Análise de dados de vendas para prever a demanda e otimizar o estoque.
+- Entretenimento: Análise de dados de visualização para recomendar conteúdo personalizado aos usuários.
+
+## NOTA
+
+Ao final do capitulo ele oferece um resumo do que foi abordado, e uma lista de
+exercícios para fixação do conteúdo.
